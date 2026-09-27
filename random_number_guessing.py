@@ -1,4 +1,3 @@
-```python
 import random
 
 n = int(input("Enter your number (1-100): "))
@@ -17,4 +16,3 @@ elif n > r:
 elif n < r:
     print("Your number is smaller than the computer's number.")
     print("Difference:", r - n)
-```
